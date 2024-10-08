@@ -39,4 +39,6 @@ The last phase of the project involved configuring and securing my web applicati
 
 After completing the technical tasks, I answered the project review questions to document my understanding.
 
+<a href="https://github.com/ThatBrownGuy101/Cyber-Blog-Cloud-Application/blob/main/Cyber%20Blog%20Cloud%20Application%20Technical%20Brief.docx">Cyber Blog Cloud Application Technical Brief</a>
+
 This project has deepened my expertise in web application security, WAF configuration, and cloud security management—skills that will be valuable in future discussions with potential employers.
