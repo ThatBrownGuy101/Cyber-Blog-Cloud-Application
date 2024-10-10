@@ -1,4 +1,4 @@
-# Cyber Blog Cloud Application (NEED TO ADD SCREENSHOTS)
+# Cyber Blog Cloud Application
 
 ## Objective
 
